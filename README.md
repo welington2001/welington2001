@@ -17,13 +17,6 @@ Sou apaixonado por automação de infraestrutura e segurança ofensiva. Atualmen
 
 ---
 
-### 📊 Estatísticas de Código
-
-![Welington's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
-
----
-
 ### 🛡️ Projetos em Destaque
 - [SecOps Platform]([SUA_URL_DO_PROJETO](https://github.com/welington2001/SecOps)): Automação de segurança e monitoramento escalável.
 - [Network Automation]([URL](https://github.com/welington2001/R4T3)): Scripts para gestão de redes.
