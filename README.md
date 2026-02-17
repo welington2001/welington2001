@@ -14,8 +14,6 @@ Sou apaixonado por automação de infraestrutura e segurança ofensiva. Atualmen
 | **Monitoramento** | ![Zabbix](https://img.shields.io/badge/-Zabbix-FF4C00?logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) |
 | **Segurança** | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4FAD4F) ![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?logo=fortinet&logoColor=white) |
 | **Cloud & Redes** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) ![Mikrotik](https://img.shields.io/badge/-Mikrotik-78BE20) | ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?logo=ubiquiti&logoColor=white)
-![UWS](https://img.shields.io/badge/-Ubiquiti_Broadband_Wireless_Specialist-0559C9?style=flat-square)
-![UWA](https://img.shields.io/badge/-Ubiquiti_Enterprise_Wireless_Admin-0559C9?style=flat-square)
 
 ---
 
