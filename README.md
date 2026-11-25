@@ -2,7 +2,7 @@
 
 ## IT Analyst | 🚀 DevOps | 🛡️ Cybersecurity | 💻 Developer
 
-Sou apaixonado por automação de infraestrutura e segurança ofensiva. Atualmente foco em transformar ambientes complexos em operações fluidas e seguras.
+Sou apaixonado por automação de infraestrutura e segurança.
 
 ---
 
